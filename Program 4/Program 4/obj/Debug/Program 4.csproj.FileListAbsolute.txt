@@ -1,0 +1,6 @@
+J:\Program 4\Program 4\obj\Debug\Program 4.csprojResolveAssemblyReference.cache
+J:\Program 4\Program 4\bin\Debug\Program 4.exe.config
+J:\Program 4\Program 4\bin\Debug\Program 4.exe
+J:\Program 4\Program 4\bin\Debug\Program 4.pdb
+J:\Program 4\Program 4\obj\Debug\Program 4.exe
+J:\Program 4\Program 4\obj\Debug\Program 4.pdb
